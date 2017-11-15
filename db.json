@@ -38,45 +38,6 @@
       "product": "Squeeze Bottle",
       "product_note": "commodo placerat",
       "price": "$38.62"
-    },
-    {
-      "id": 4,
-      "company_name": "Skalith",
-      "name": "Gaston Jean",
-      "date": "2017-07-13",
-      "image": "http://dummyimage.com/699x201.png/dddddd/000000",
-      "title": "quis lectus",
-      "body":
-        "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
-      "product": "Ice Cream Bar - Rolo Cone",
-      "product_note": "phasellus in",
-      "price": "$17.33"
-    },
-    {
-      "id": 5,
-      "company_name": "Kayveo",
-      "name": "Brynna Kincaid",
-      "date": "2017-05-04",
-      "image": "http://dummyimage.com/606x399.png/ff4444/ffffff",
-      "title": "quam a",
-      "body":
-        "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
-      "product": "Soup - Knorr, Classic Can. Chili",
-      "product_note": "lobortis ligula",
-      "price": "$46.79"
-    },
-    {
-      "id": 6,
-      "company_name": "Latz",
-      "name": "Sauveur Smurfit",
-      "date": "2016-12-20",
-      "image": "http://dummyimage.com/871x258.png/5fa2dd/ffffff",
-      "title": "ut at dolor quis",
-      "body":
-        "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
-      "product": "Cream Of Tartar",
-      "product_note": "ante vivamus tortor duis",
-      "price": "$25.80"
     }
   ]
 }
