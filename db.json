@@ -2,42 +2,42 @@
   "news": [
     {
       "id": 1,
-      "company_name": "Voonte",
-      "name": "Towny Bezarra",
-      "date": "2017-07-12",
-      "image": "https://dummyimage.com/825x392.png/cc0000/ffffff",
-      "title": "odio cras",
+      "company_name": "Eare",
+      "name": "Blair Dootson",
+      "date": "2016-12-31T03:34:54Z",
+      "image": "https://dummyimage.com/445x242.png/ff4444/ffffff",
+      "title": "a feugiat et eros",
       "body":
         "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
-      "product": "Nantucket - Pomegranate Pear",
-      "product_note": "mattis pulvinar nulla pede",
-      "price": "$18.46"
+      "product": "Onion Powder",
+      "product_note": "tempus semper",
+      "price": "$9.06"
     },
     {
       "id": 2,
-      "company_name": "Photobug",
-      "name": "Magdaia Adriani",
-      "date": "2017-11-05",
-      "image": "https://dummyimage.com/634x245.png/ff4444/ffffff",
-      "title": "ultrices enim lorem",
+      "company_name": "Katz",
+      "name": "Theresita Fulleylove",
+      "date": "2017-08-30T23:47:09Z",
+      "image": "https://dummyimage.com/1022x217.png/dddddd/000000",
+      "title": "cras in",
       "body":
-        "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
-      "product": "Appetizer - Escargot Puff",
-      "product_note": "suspendisse ornare consequat",
-      "price": "$20.89"
+        "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+      "product": "Arizona - Green Tea",
+      "product_note": "nonummy integer non",
+      "price": "$29.59"
     },
     {
       "id": 3,
-      "company_name": "Quatz",
-      "name": "Sully Kondratenko",
-      "date": "2017-03-18",
-      "image": "https://dummyimage.com/482x299.png/cc0000/ffffff",
-      "title": "lacus curabitur at ipsum",
+      "company_name": "Ntag",
+      "name": "Bruis Biddell",
+      "date": "2017-09-08T19:29:12Z",
+      "image": "https://dummyimage.com/797x355.png/dddddd/000000",
+      "title": "maecenas leo odio condimentum",
       "body":
-        "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
-      "product": "Squeeze Bottle",
-      "product_note": "commodo placerat",
-      "price": "$38.62"
+        "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+      "product": "Sugar - White Packet",
+      "product_note": "libero ut massa volutpat",
+      "price": "$48.95"
     }
   ]
 }
