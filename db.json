@@ -39,5 +39,22 @@
       "product_note": "libero ut massa volutpat",
       "price": "$48.95"
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "product": "Flavouring - Orange",
+      "price": "$56.85"
+    },
+    {
+      "id": 2,
+      "product": "Glass - Juice Clear 5oz 55005",
+      "price": "$66.57"
+    },
+    {
+      "id": 3,
+      "product": "Extract - Lemon",
+      "price": "$12.34"
+    }
   ]
 }
