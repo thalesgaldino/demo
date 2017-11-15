@@ -43,18 +43,33 @@
   "products": [
     {
       "id": 1,
-      "product": "Flavouring - Orange",
-      "price": "$56.85"
+      "product": "Bar Mix - Lime",
+      "price": "$47.28"
     },
     {
       "id": 2,
-      "product": "Glass - Juice Clear 5oz 55005",
-      "price": "$66.57"
+      "product": "Pears - Fiorelle",
+      "price": "$41.09"
     },
     {
       "id": 3,
-      "product": "Extract - Lemon",
-      "price": "$12.34"
+      "product": "Cloves - Ground",
+      "price": "$66.14"
+    },
+    {
+      "id": 4,
+      "product": "Syrup - Chocolate",
+      "price": "$13.90"
+    },
+    {
+      "id": 5,
+      "product": "Corn Meal",
+      "price": "$57.81"
+    },
+    {
+      "id": 6,
+      "product": "Wine - Beaujolais Villages",
+      "price": "$15.84"
     }
   ]
 }
