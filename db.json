@@ -43,32 +43,32 @@
   "products": [
     {
       "id": 1,
-      "product": "Bar Mix - Lime",
+      "name": "Bar Mix - Lime",
       "price": "$47.28"
     },
     {
       "id": 2,
-      "product": "Pears - Fiorelle",
+      "name": "Pears - Fiorelle",
       "price": "$41.09"
     },
     {
       "id": 3,
-      "product": "Cloves - Ground",
+      "name": "Cloves - Ground",
       "price": "$66.14"
     },
     {
       "id": 4,
-      "product": "Syrup - Chocolate",
+      "name": "Syrup - Chocolate",
       "price": "$13.90"
     },
     {
       "id": 5,
-      "product": "Corn Meal",
+      "name": "Corn Meal",
       "price": "$57.81"
     },
     {
       "id": 6,
-      "product": "Wine - Beaujolais Villages",
+      "name": "Wine - Beaujolais Villages",
       "price": "$15.84"
     }
   ]
